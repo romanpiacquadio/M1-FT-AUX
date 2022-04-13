@@ -82,7 +82,12 @@ function crearClaseLibro() {
           num = num + 1
         }
 
-      } return num
+      } 
+      
+      let array2 = new Set(array)
+      return array2.size
+
+      return num
     }
   }
 

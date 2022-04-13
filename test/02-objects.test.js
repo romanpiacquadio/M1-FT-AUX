@@ -90,6 +90,7 @@ describe("Clase", function () {
         "J. K. Rowling",
         [
           { idioma: "inglés", editorial: "Scholastic" },
+          { idioma: "inglés", editorial: "AnotherOne" },
           { idioma: "castellano", editorial: "emece" },
           { idioma: "francés", editorial: "Éditions Gallimard" },
         ]
